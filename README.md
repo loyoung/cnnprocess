@@ -1,1 +1,1 @@
-# cnnprocess
+# c语言简单实现cnn的卷积池化过程
